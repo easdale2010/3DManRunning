@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>tex.jpg</Source>
+      <Name>tex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan Easdale\Documents\college\year3\Gradedunit\part2\GradedUnitGame\GradedUnitGame\GradedUnitGame\bin\x86\Debug\Content\tex.xnb</Output>
+      <Time>2012-02-07T20:33:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>tex2.JPG</Source>
+      <Name>tex2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan Easdale\Documents\college\year3\Gradedunit\part2\GradedUnitGame\GradedUnitGame\GradedUnitGame\bin\x86\Debug\Content\tex2.xnb</Output>
+      <Time>2012-02-16T22:45:42+00:00</Time>
+    </Item>
+    <Item>
+      <Source>2d_bars.jpg</Source>
+      <Name>2d_bars</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan Easdale\Documents\college\year3\Gradedunit\part2\GradedUnitGame\GradedUnitGame\GradedUnitGame\bin\x86\Debug\Content\2d_bars.xnb</Output>
+      <Time>2012-02-21T21:01:36+00:00</Time>
+    </Item>
+    <Item>
+      <Source>pothead.FBX</Source>
+      <Name>pothead</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="RotationY">90</Data>
+        <Data Key="RotationX">90</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Alan Easdale\Documents\college\year3\Gradedunit\part2\GradedUnitGame\GradedUnitGame\GradedUnitGame\bin\x86\Debug\Content\pothead.xnb</Output>
+      <Time>2012-02-07T20:33:38+00:00</Time>
+      <Dependency>
+        <Key>C:\Users\Alan Easdale\Documents\college\year3\Gradedunit\part2\GradedUnitGame\GradedUnitGame\GradedUnitGame\obj\x86\Debug\pothead_0.xml</Key>
+        <Value>2016-02-07T08:46:37.1467255+00:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>runner.FBX</Source>
+      <Name>runner</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="RotationX">90</Data>
+        <Data Key="RotationY">90</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Alan Easdale\Documents\college\year3\Gradedunit\part2\GradedUnitGame\GradedUnitGame\GradedUnitGame\bin\x86\Debug\Content\runner.xnb</Output>
+      <Time>2012-02-16T22:50:34+00:00</Time>
+      <Dependency>
+        <Key>C:\Users\Alan Easdale\Documents\college\year3\Gradedunit\part2\GradedUnitGame\GradedUnitGame\GradedUnitGame\obj\x86\Debug\runner_0.xml</Key>
+        <Value>2016-02-07T08:46:37.5907511+00:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>ground.FBX</Source>
+      <Name>ground</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan Easdale\Documents\college\year3\Gradedunit\part2\GradedUnitGame\GradedUnitGame\GradedUnitGame\bin\x86\Debug\Content\ground.xnb</Output>
+      <Time>2012-02-21T21:12:16+00:00</Time>
+      <Dependency>
+        <Key>C:\Users\Alan Easdale\Documents\college\year3\Gradedunit\part2\GradedUnitGame\GradedUnitGame\GradedUnitGame\obj\x86\Debug\ground_0.xml</Key>
+        <Value>2016-02-07T08:46:37.7787612+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\Alan Easdale\Documents\college\year3\Gradedunit\part2\GradedUnitGame\GradedUnitGame\GradedUnitGame\bin\x86\Debug\Content\buffalo-grass-texture_w725_h544_0.xnb</Request>
+      <Request>C:\Users\Alan Easdale\Documents\college\year3\Gradedunit\part2\GradedUnitGame\GradedUnitGame\GradedUnitGame\bin\x86\Debug\Content\yellow-sand-texture_w725_h544_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Verdana.spritefont</Source>
+      <Name>Verdana</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan Easdale\Documents\college\year3\Gradedunit\part2\GradedUnitGame\GradedUnitGame\GradedUnitGame\bin\x86\Debug\Content\Verdana.xnb</Output>
+      <Time>2012-02-07T20:33:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>test.x</Source>
+      <Name>test</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan Easdale\Documents\college\year3\Gradedunit\part2\GradedUnitGame\GradedUnitGame\GradedUnitGame\bin\x86\Debug\Content\test.xnb</Output>
+      <Time>2012-02-14T16:11:58+00:00</Time>
+      <Dependency>
+        <Key>C:\Users\Alan Easdale\Documents\college\year3\Gradedunit\part2\GradedUnitGame\GradedUnitGame\GradedUnitGame\obj\x86\Debug\test_0.xml</Key>
+        <Value>2016-02-07T08:46:38.7718188+00:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>pothead.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Alan Easdale\Documents\college\year3\Gradedunit\part2\GradedUnitGame\GradedUnitGame\GradedUnitGame\obj\x86\Debug\pothead_0.xml</Output>
+      <Time>2012-02-07T20:33:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>runner.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Alan Easdale\Documents\college\year3\Gradedunit\part2\GradedUnitGame\GradedUnitGame\GradedUnitGame\obj\x86\Debug\runner_0.xml</Output>
+      <Time>2012-02-16T22:50:34+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ground.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Alan Easdale\Documents\college\year3\Gradedunit\part2\GradedUnitGame\GradedUnitGame\GradedUnitGame\obj\x86\Debug\ground_0.xml</Output>
+      <Time>2012-02-21T21:12:16+00:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Alan Easdale\Documents\college\year3\Gradedunit\part2\GradedUnitGame\GradedUnitGame\GradedUnitGame\obj\x86\Debug\FBX\3DF1322B\ground.fbm\buffalo-grass-texture_w725_h544.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Alan Easdale\Documents\college\year3\Gradedunit\part2\GradedUnitGame\GradedUnitGame\GradedUnitGame\bin\x86\Debug\Content\buffalo-grass-texture_w725_h544_0.xnb</Output>
+      <Time>2016-02-07T08:46:37.711757+00:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Alan Easdale\Documents\college\year3\Gradedunit\part2\GradedUnitGame\GradedUnitGame\GradedUnitGame\obj\x86\Debug\FBX\3DF1322B\ground.fbm\yellow-sand-texture_w725_h544.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Alan Easdale\Documents\college\year3\Gradedunit\part2\GradedUnitGame\GradedUnitGame\GradedUnitGame\bin\x86\Debug\Content\yellow-sand-texture_w725_h544_0.xnb</Output>
+      <Time>2016-02-07T08:46:37.7097569+00:00</Time>
+    </Item>
+    <Item>
+      <Source>test.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Alan Easdale\Documents\college\year3\Gradedunit\part2\GradedUnitGame\GradedUnitGame\GradedUnitGame\obj\x86\Debug\test_0.xml</Output>
+      <Time>2012-02-14T16:11:58+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{2091E197-5E2C-49FB-8B9F-6EC24909F00B}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Alan Easdale\Documents\college\year3\Gradedunit\part2\GradedUnitGame\GradedUnitGame\GradedUnitGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Alan Easdale\Documents\college\year3\Gradedunit\part2\GradedUnitGame\GradedUnitGame\GradedUnitGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Alan Easdale\Documents\college\year3\Gradedunit\part2\GradedUnitGame\GradedUnitGame\GradedUnitGame\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Alan Easdale\Documents\college\year3\Gradedunit\part2\GradedUnitGame\GradedUnitGame\GradedUnitGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-02-03T21:07:47.9886339+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

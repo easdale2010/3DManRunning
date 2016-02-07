@@ -1,0 +1,15 @@
+C:\Users\Alan Easdale\Documents\college\year3\Gradedunit\part2\GradedUnitGame\GradedUnitGame\GradedUnitGame\bin\x86\Debug\Content\tex.xnb
+C:\Users\Alan Easdale\Documents\college\year3\Gradedunit\part2\GradedUnitGame\GradedUnitGame\GradedUnitGame\bin\x86\Debug\Content\tex2.xnb
+C:\Users\Alan Easdale\Documents\college\year3\Gradedunit\part2\GradedUnitGame\GradedUnitGame\GradedUnitGame\bin\x86\Debug\Content\2d_bars.xnb
+C:\Users\Alan Easdale\Documents\college\year3\Gradedunit\part2\GradedUnitGame\GradedUnitGame\GradedUnitGame\bin\x86\Debug\Content\pothead.xnb
+C:\Users\Alan Easdale\Documents\college\year3\Gradedunit\part2\GradedUnitGame\GradedUnitGame\GradedUnitGame\bin\x86\Debug\Content\runner.xnb
+C:\Users\Alan Easdale\Documents\college\year3\Gradedunit\part2\GradedUnitGame\GradedUnitGame\GradedUnitGame\bin\x86\Debug\Content\ground.xnb
+C:\Users\Alan Easdale\Documents\college\year3\Gradedunit\part2\GradedUnitGame\GradedUnitGame\GradedUnitGame\bin\x86\Debug\Content\Verdana.xnb
+C:\Users\Alan Easdale\Documents\college\year3\Gradedunit\part2\GradedUnitGame\GradedUnitGame\GradedUnitGame\bin\x86\Debug\Content\test.xnb
+C:\Users\Alan Easdale\Documents\college\year3\Gradedunit\part2\GradedUnitGame\GradedUnitGame\GradedUnitGame\bin\x86\Debug\Content\buffalo-grass-texture_w725_h544_0.xnb
+C:\Users\Alan Easdale\Documents\college\year3\Gradedunit\part2\GradedUnitGame\GradedUnitGame\GradedUnitGame\bin\x86\Debug\Content\yellow-sand-texture_w725_h544_0.xnb
+C:\Users\Alan Easdale\Documents\college\year3\Gradedunit\part2\GradedUnitGame\GradedUnitGame\GradedUnitGame\bin\x86\Debug\GradedUnitGame.exe
+C:\Users\Alan Easdale\Documents\college\year3\Gradedunit\part2\GradedUnitGame\GradedUnitGame\GradedUnitGame\bin\x86\Debug\GradedUnitGame.pdb
+C:\Users\Alan Easdale\Documents\college\year3\Gradedunit\part2\GradedUnitGame\GradedUnitGame\GradedUnitGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alan Easdale\Documents\college\year3\Gradedunit\part2\GradedUnitGame\GradedUnitGame\GradedUnitGame\obj\x86\Debug\GradedUnitGame.exe
+C:\Users\Alan Easdale\Documents\college\year3\Gradedunit\part2\GradedUnitGame\GradedUnitGame\GradedUnitGame\obj\x86\Debug\GradedUnitGame.pdb
